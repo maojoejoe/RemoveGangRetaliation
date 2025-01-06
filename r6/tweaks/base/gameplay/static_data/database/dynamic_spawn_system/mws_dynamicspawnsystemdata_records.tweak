@@ -99,7 +99,7 @@ mini_world_story_gang_chase_netwatch_vehicle_02 : DynamicVehicleData
 
 mini_world_story_gang_chase_maelstrom_vehicle_01 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.cs_savable_chevalier_thrax_maelstrom";
+	vehicleRecord = "";
 	unitRecordsPool = 
 	[
 		{
@@ -119,7 +119,7 @@ mini_world_story_gang_chase_maelstrom_vehicle_01 : DynamicVehicleData
 
 mini_world_story_gang_chase_maelstrom_vehicle_02 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.cs_savable_thorton_galena_maelstrom";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{

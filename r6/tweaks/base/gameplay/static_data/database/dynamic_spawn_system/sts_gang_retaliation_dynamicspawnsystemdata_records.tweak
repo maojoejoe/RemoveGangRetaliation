@@ -3,7 +3,7 @@ using RTDB, Character
 
 gang_chase_wraiths_small_01 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sport2_mizutani_shion_nomad_wraith";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -19,7 +19,7 @@ gang_chase_wraiths_small_01 : DynamicVehicleData
 
 gang_chase_wraiths_small_01_ina_03_boss : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sport2_mizutani_shion_nomad_wraith";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -35,7 +35,7 @@ gang_chase_wraiths_small_01_ina_03_boss : DynamicVehicleData
 
 gang_chase_wraiths_small_02 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sport2_quadra_type66_nomad_wraith";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -51,7 +51,7 @@ gang_chase_wraiths_small_02 : DynamicVehicleData
 
 gang_chase_wraiths_small_03 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard2_archer_quartz_nomad_wraith";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -67,7 +67,7 @@ gang_chase_wraiths_small_03 : DynamicVehicleData
 
 gang_chase_wraiths_small_03_ina_02 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard2_archer_quartz_nomad_wraith";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -83,7 +83,7 @@ gang_chase_wraiths_small_03_ina_02 : DynamicVehicleData
 
 gang_chase_wraiths_small_04 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard25_thorton_colby_nomad_wraith";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -99,7 +99,7 @@ gang_chase_wraiths_small_04 : DynamicVehicleData
 
 gang_chase_wraiths_small_04_ina_02 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard25_thorton_colby_nomad_wraith";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -115,7 +115,7 @@ gang_chase_wraiths_small_04_ina_02 : DynamicVehicleData
 
 gang_chase_wraiths_small_05 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard2_thorton_galena_nomad";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -131,7 +131,7 @@ gang_chase_wraiths_small_05 : DynamicVehicleData
 
 gang_chase_wraiths_small_05_ina_02 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard2_thorton_galena_nomad";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -147,7 +147,7 @@ gang_chase_wraiths_small_05_ina_02 : DynamicVehicleData
 
 gang_chase_wraiths_bike_ma : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sportbike3_brennan_apollo_nomad";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -159,7 +159,7 @@ gang_chase_wraiths_bike_ma : DynamicVehicleData
 
 gang_chase_wraiths_bike_ma_ina_03 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sportbike3_brennan_apollo_nomad";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -171,7 +171,7 @@ gang_chase_wraiths_bike_ma_ina_03 : DynamicVehicleData
 
 gang_chase_wraiths_bike_wa : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sportbike3_brennan_apollo_nomad";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -183,7 +183,7 @@ gang_chase_wraiths_bike_wa : DynamicVehicleData
 
 gang_chase_sixthstreet_small_01 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.cs_savable_thorton_mackinaw_sixth_street";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -199,7 +199,7 @@ gang_chase_sixthstreet_small_01 : DynamicVehicleData
 
 gang_chase_sixthstreet_small_02 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.cs_savable_archer_hella_sixth_street";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -215,7 +215,7 @@ gang_chase_sixthstreet_small_02 : DynamicVehicleData
 
 gang_chase_sixthstreet_small_03 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.cs_savable_villefort_columbus_sixth_street";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -231,7 +231,7 @@ gang_chase_sixthstreet_small_03 : DynamicVehicleData
 
 gang_chase_sixthstreet_small_04 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard2_chevalier_thrax_sixth_street";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -247,7 +247,7 @@ gang_chase_sixthstreet_small_04 : DynamicVehicleData
 
 gang_chase_sixthstreet_small_05_generic_emperor : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard3_chevalier_emperor";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -263,7 +263,7 @@ gang_chase_sixthstreet_small_05_generic_emperor : DynamicVehicleData
 
 gang_chase_sixthstreet_small_06_generic_merrimac : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard25_thorton_merrimac";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -279,7 +279,7 @@ gang_chase_sixthstreet_small_06_generic_merrimac : DynamicVehicleData
 
 gang_chase_sixthstreet_small_07_generic_tanishi : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard3_makigai_tanishi";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -295,7 +295,7 @@ gang_chase_sixthstreet_small_07_generic_tanishi : DynamicVehicleData
 
 gang_chase_sixthstreet_small_01_rcr_03 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.cs_savable_thorton_mackinaw_sixth_street";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -311,7 +311,7 @@ gang_chase_sixthstreet_small_01_rcr_03 : DynamicVehicleData
 
 gang_chase_sixthstreet_small_02_rcr_03 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.cs_savable_archer_hella_sixth_street";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -327,7 +327,7 @@ gang_chase_sixthstreet_small_02_rcr_03 : DynamicVehicleData
 
 gang_chase_sixthstreet_small_03_rcr_03 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.cs_savable_villefort_columbus_sixth_street";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -343,7 +343,7 @@ gang_chase_sixthstreet_small_03_rcr_03 : DynamicVehicleData
 
 gang_chase_sixthstreet_small_04_rcr_03 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard2_chevalier_thrax_sixth_street";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -359,7 +359,7 @@ gang_chase_sixthstreet_small_04_rcr_03 : DynamicVehicleData
 
 gang_chase_sixthstreet_boss_rcr_03 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard2_chevalier_thrax_sixth_street";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -375,7 +375,7 @@ gang_chase_sixthstreet_boss_rcr_03 : DynamicVehicleData
 
 gang_chase_sixthstreet_small_05_generic_emperor_rcr_03 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard3_chevalier_emperor";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -391,7 +391,7 @@ gang_chase_sixthstreet_small_05_generic_emperor_rcr_03 : DynamicVehicleData
 
 gang_chase_sixthstreet_small_06_generic_merrimac_rcr_03 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard25_thorton_merrimac";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -407,7 +407,7 @@ gang_chase_sixthstreet_small_06_generic_merrimac_rcr_03 : DynamicVehicleData
 
 gang_chase_sixthstreet_small_07_generic_tanishi_rcr_03 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard3_makigai_tanishi";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -423,7 +423,7 @@ gang_chase_sixthstreet_small_07_generic_tanishi_rcr_03 : DynamicVehicleData
 
 gang_chase_sixthstreet_bike_ma : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sportbike3_brennan_apollo_sport";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -435,7 +435,7 @@ gang_chase_sixthstreet_bike_ma : DynamicVehicleData
 
 gang_chase_sixthstreet_bike_ma_arr_11_boss : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sportbike3_brennan_apollo_sport";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -447,7 +447,7 @@ gang_chase_sixthstreet_bike_ma_arr_11_boss : DynamicVehicleData
 
 gang_chase_sixthstreet_bike_ma_arr_11 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sportbike3_brennan_apollo_sport";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -459,7 +459,7 @@ gang_chase_sixthstreet_bike_ma_arr_11 : DynamicVehicleData
 
 gang_chase_sixthstreet_bike_ma_rcr_03 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sportbike3_brennan_apollo_sport";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -471,7 +471,7 @@ gang_chase_sixthstreet_bike_ma_rcr_03 : DynamicVehicleData
 
 gang_chase_sixthstreet_bike_wa : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sportbike3_brennan_apollo_sport";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -483,7 +483,7 @@ gang_chase_sixthstreet_bike_wa : DynamicVehicleData
 
 gang_chase_sixthstreet_bike_wa_arr_11 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sportbike3_brennan_apollo_sport";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -495,7 +495,7 @@ gang_chase_sixthstreet_bike_wa_arr_11 : DynamicVehicleData
 
 gang_chase_sixthstreet_bike_wa_rcr_03 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sportbike3_brennan_apollo_sport";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -507,7 +507,7 @@ gang_chase_sixthstreet_bike_wa_rcr_03 : DynamicVehicleData
 
 gang_chase_animal_small_01_dtn_03 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard3_thorton_mackinaw";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -523,7 +523,7 @@ gang_chase_animal_small_01_dtn_03 : DynamicVehicleData
 
 gang_chase_animal_small_01_dtn_03_boss : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard3_thorton_mackinaw";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -539,7 +539,7 @@ gang_chase_animal_small_01_dtn_03_boss : DynamicVehicleData
 
 gang_chase_animal_small_02_dtn_03 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard25_mahir_supron";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -555,7 +555,7 @@ gang_chase_animal_small_02_dtn_03 : DynamicVehicleData
 
 gang_chase_animal_small_03_dtn_03 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard3_chevalier_emperor";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -571,7 +571,7 @@ gang_chase_animal_small_03_dtn_03 : DynamicVehicleData
 
 gang_chase_animal_small_04_generic_columbus_dtn_03 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard25_villefort_columbus";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -587,7 +587,7 @@ gang_chase_animal_small_04_generic_columbus_dtn_03 : DynamicVehicleData
 
 gang_chase_animal_small_05_generic_thrax_dtn_03 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard2_chevalier_thrax";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -603,7 +603,7 @@ gang_chase_animal_small_05_generic_thrax_dtn_03 : DynamicVehicleData
 
 gang_chase_animal_bike_ma_dtn_03 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sportbike1_yaiba_kusanagi_animal";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -615,7 +615,7 @@ gang_chase_animal_bike_ma_dtn_03 : DynamicVehicleData
 
 gang_chase_animal_bike_wa_dtn_03 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sportbike1_yaiba_kusanagi_animal";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -627,7 +627,7 @@ gang_chase_animal_bike_wa_dtn_03 : DynamicVehicleData
 
 gang_chase_valentino_small_01_gle_04 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.cs_savable_villefort_alvarado_valentinos";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -643,7 +643,7 @@ gang_chase_valentino_small_01_gle_04 : DynamicVehicleData
 
 gang_chase_valentino_small_01_gle_04_boss : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.cs_savable_villefort_alvarado_valentinos";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -659,7 +659,7 @@ gang_chase_valentino_small_01_gle_04_boss : DynamicVehicleData
 
 gang_chase_valentino_small_02_gle_04 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.cs_savable_chevalier_thrax_valentino";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -675,7 +675,7 @@ gang_chase_valentino_small_02_gle_04 : DynamicVehicleData
 
 gang_chase_valentino_small_03_gle_04 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.cs_savable_thorton_colby_valentinos";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -691,7 +691,7 @@ gang_chase_valentino_small_03_gle_04 : DynamicVehicleData
 
 gang_chase_valentino_small_04_gle_04 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.cs_savable_thorton_mackinaw_valentinos";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -707,7 +707,7 @@ gang_chase_valentino_small_04_gle_04 : DynamicVehicleData
 
 gang_chase_valentino_small_05_generic_deleon_gle_04 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sport2_villefort_deleon";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -723,7 +723,7 @@ gang_chase_valentino_small_05_generic_deleon_gle_04 : DynamicVehicleData
 
 gang_chase_valentino_small_06_generic_cortes_gle_04 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard2_villefort_cortes";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -739,7 +739,7 @@ gang_chase_valentino_small_06_generic_cortes_gle_04 : DynamicVehicleData
 
 gang_chase_valentino_small_07_generic_hella_gle_04 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard2_archer_hella";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -755,7 +755,7 @@ gang_chase_valentino_small_07_generic_hella_gle_04 : DynamicVehicleData
 
 gang_chase_valentino_small_08_generic_alvaradohearse_gle_04 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sport2_villefort_alvarado_hearse";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -771,7 +771,7 @@ gang_chase_valentino_small_08_generic_alvaradohearse_gle_04 : DynamicVehicleData
 
 gang_chase_valentino_bike_ma_gle_04 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sportbike3_brennan_apollo_sport";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -783,7 +783,7 @@ gang_chase_valentino_bike_ma_gle_04 : DynamicVehicleData
 
 gang_chase_valentino_bike_wa_gle_04 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sportbike3_brennan_apollo_sport";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -795,7 +795,7 @@ gang_chase_valentino_bike_wa_gle_04 : DynamicVehicleData
 
 gang_chase_valentino_small_01_rey_02 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.cs_savable_villefort_alvarado_valentinos";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -811,7 +811,7 @@ gang_chase_valentino_small_01_rey_02 : DynamicVehicleData
 
 gang_chase_valentino_small_02_rey_02 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.cs_savable_chevalier_thrax_valentino";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -827,7 +827,7 @@ gang_chase_valentino_small_02_rey_02 : DynamicVehicleData
 
 gang_chase_valentino_small_03_rey_02 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.cs_savable_thorton_colby_valentinos";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -843,7 +843,7 @@ gang_chase_valentino_small_03_rey_02 : DynamicVehicleData
 
 gang_chase_valentino_small_04_rey_02 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.cs_savable_thorton_mackinaw_valentinos";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -859,7 +859,7 @@ gang_chase_valentino_small_04_rey_02 : DynamicVehicleData
 
 gang_chase_valentino_small_05_generic_deleon_rey_02 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sport2_villefort_deleon";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -875,7 +875,7 @@ gang_chase_valentino_small_05_generic_deleon_rey_02 : DynamicVehicleData
 
 gang_chase_valentino_small_06_generic_cortes_rey_02 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard2_villefort_cortes";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -891,7 +891,7 @@ gang_chase_valentino_small_06_generic_cortes_rey_02 : DynamicVehicleData
 
 gang_chase_valentino_small_07_generic_hella_rey_02 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard2_archer_hella";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -907,7 +907,7 @@ gang_chase_valentino_small_07_generic_hella_rey_02 : DynamicVehicleData
 
 gang_chase_valentino_small_08_generic_alvaradohearse_rey_02 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sport2_villefort_alvarado_hearse";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -923,7 +923,7 @@ gang_chase_valentino_small_08_generic_alvaradohearse_rey_02 : DynamicVehicleData
 
 gang_chase_valentino_bike_ma_rey_02 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sportbike3_brennan_apollo_sport";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -935,7 +935,7 @@ gang_chase_valentino_bike_ma_rey_02 : DynamicVehicleData
 
 gang_chase_valentino_bike_wa_rey_02 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sportbike3_brennan_apollo_sport";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -947,7 +947,7 @@ gang_chase_valentino_bike_wa_rey_02 : DynamicVehicleData
 
 gang_chase_maelstrom_small_01_kab_02 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.cs_savable_chevalier_thrax_maelstrom";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -959,7 +959,7 @@ gang_chase_maelstrom_small_01_kab_02 : DynamicVehicleData
 
 gang_chase_maelstrom_small_01_kab_02_boss : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.cs_savable_chevalier_thrax_maelstrom";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -975,7 +975,7 @@ gang_chase_maelstrom_small_01_kab_02_boss : DynamicVehicleData
 
 gang_chase_maelstrom_small_02_kab_02 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.cs_savable_thorton_galena_maelstrom";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -991,7 +991,7 @@ gang_chase_maelstrom_small_02_kab_02 : DynamicVehicleData
 
 gang_chase_maelstrom_small_03_kab_02 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.cs_savable_chevalier_thrax_maelstrom";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1011,7 +1011,7 @@ gang_chase_maelstrom_small_03_kab_02 : DynamicVehicleData
 
 gang_chase_maelstrom_small_04_generic_tanishi_kab_02 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard3_makigai_tanishi";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1027,7 +1027,7 @@ gang_chase_maelstrom_small_04_generic_tanishi_kab_02 : DynamicVehicleData
 
 gang_chase_maelstrom_small_05_generic_colby_kab_02 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard2_thorton_colby";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1043,7 +1043,7 @@ gang_chase_maelstrom_small_05_generic_colby_kab_02 : DynamicVehicleData
 
 gang_chase_maelstrom_small_06_generic_tanishi_kab_02 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard3_makigai_tanishi";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1059,7 +1059,7 @@ gang_chase_maelstrom_small_06_generic_tanishi_kab_02 : DynamicVehicleData
 
 gang_chase_maelstrom_small_07_generic_mackinaw_kab_02 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard3_thorton_mackinaw";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1075,7 +1075,7 @@ gang_chase_maelstrom_small_07_generic_mackinaw_kab_02 : DynamicVehicleData
 
 gang_chase_maelstrom_small_08_generic_maimai_kab_02 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard2_makigai_maimai";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1087,7 +1087,7 @@ gang_chase_maelstrom_small_08_generic_maimai_kab_02 : DynamicVehicleData
 
 gang_chase_maelstrom_bike_ma_kab_02 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sportbike3_brennan_apollo";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1099,7 +1099,7 @@ gang_chase_maelstrom_bike_ma_kab_02 : DynamicVehicleData
 
 gang_chase_maelstrom_bike_wa_kab_02 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sportbike3_brennan_apollo";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1111,7 +1111,7 @@ gang_chase_maelstrom_bike_wa_kab_02 : DynamicVehicleData
 
 gang_chase_maelstrom_small_01_nid_05 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.cs_savable_chevalier_thrax_maelstrom";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1123,7 +1123,7 @@ gang_chase_maelstrom_small_01_nid_05 : DynamicVehicleData
 
 gang_chase_maelstrom_small_01_nid_05_boss : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.cs_savable_chevalier_thrax_maelstrom";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1139,7 +1139,7 @@ gang_chase_maelstrom_small_01_nid_05_boss : DynamicVehicleData
 
 gang_chase_maelstrom_small_02_nid_05 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.cs_savable_thorton_galena_maelstrom";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1155,7 +1155,7 @@ gang_chase_maelstrom_small_02_nid_05 : DynamicVehicleData
 
 gang_chase_maelstrom_small_03_nid_05 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.cs_savable_chevalier_thrax_maelstrom";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1175,7 +1175,7 @@ gang_chase_maelstrom_small_03_nid_05 : DynamicVehicleData
 
 gang_chase_maelstrom_small_04_generic_tanishi_nid_05 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard3_makigai_tanishi";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1191,7 +1191,7 @@ gang_chase_maelstrom_small_04_generic_tanishi_nid_05 : DynamicVehicleData
 
 gang_chase_maelstrom_small_05_generic_colby_nid_05 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard2_thorton_colby";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1207,7 +1207,7 @@ gang_chase_maelstrom_small_05_generic_colby_nid_05 : DynamicVehicleData
 
 gang_chase_maelstrom_small_06_generic_tanishi_nid_05 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard3_makigai_tanishi";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1223,7 +1223,7 @@ gang_chase_maelstrom_small_06_generic_tanishi_nid_05 : DynamicVehicleData
 
 gang_chase_maelstrom_small_07_generic_mackinaw_nid_05 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard3_thorton_mackinaw";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1239,7 +1239,7 @@ gang_chase_maelstrom_small_07_generic_mackinaw_nid_05 : DynamicVehicleData
 
 gang_chase_maelstrom_small_08_generic_maimai_nid_05 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard2_makigai_maimai";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1251,7 +1251,7 @@ gang_chase_maelstrom_small_08_generic_maimai_nid_05 : DynamicVehicleData
 
 gang_chase_maelstrom_bike_ma_nid_05 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sportbike3_brennan_apollo";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1263,7 +1263,7 @@ gang_chase_maelstrom_bike_ma_nid_05 : DynamicVehicleData
 
 gang_chase_maelstrom_bike_wa_nid_05 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sportbike3_brennan_apollo";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1275,7 +1275,7 @@ gang_chase_maelstrom_bike_wa_nid_05 : DynamicVehicleData
 
 gang_chase_tygerclaws_small_01 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.cs_savable_villefort_columbus_tyger";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1291,7 +1291,7 @@ gang_chase_tygerclaws_small_01 : DynamicVehicleData
 
 gang_chase_tygerclaws_small_01_jpn_12_boss : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.cs_savable_villefort_columbus_tyger";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1307,7 +1307,7 @@ gang_chase_tygerclaws_small_01_jpn_12_boss : DynamicVehicleData
 
 gang_chase_tygerclaws_small_02 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.cs_savable_archer_quartz_tyger";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1323,7 +1323,7 @@ gang_chase_tygerclaws_small_02 : DynamicVehicleData
 
 gang_chase_tygerclaws_small_03 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.cs_savable_mizutani_shion_tyger";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1339,7 +1339,7 @@ gang_chase_tygerclaws_small_03 : DynamicVehicleData
 
 gang_chase_tygerclaws_small_04 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sport1_quadra_turbo_tyger_claw";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1355,7 +1355,7 @@ gang_chase_tygerclaws_small_04 : DynamicVehicleData
 
 gang_chase_tygerclaws_small_05_generic_hozuki : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard2_mizutani_hozuki";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1371,7 +1371,7 @@ gang_chase_tygerclaws_small_05_generic_hozuki : DynamicVehicleData
 
 gang_chase_tygerclaws_small_06_generic_riptide : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sport1_herrera_riptide";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1387,7 +1387,7 @@ gang_chase_tygerclaws_small_06_generic_riptide : DynamicVehicleData
 
 gang_chase_tygerclaws_bike_ma_01 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sportbike1_yaiba_kusanagi_tyger";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1399,7 +1399,7 @@ gang_chase_tygerclaws_bike_ma_01 : DynamicVehicleData
 
 gang_chase_tygerclaws_bike_ma_02 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sportbike2_arch_tyger";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1411,7 +1411,7 @@ gang_chase_tygerclaws_bike_ma_02 : DynamicVehicleData
 
 gang_chase_tygerclaws_bike_ma_03 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sport1_quadra_turbo_tyger_claw";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1423,7 +1423,7 @@ gang_chase_tygerclaws_bike_ma_03 : DynamicVehicleData
 
 gang_chase_tygerclaws_bike_wa_01 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sportbike1_yaiba_kusanagi_tyger";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1435,7 +1435,7 @@ gang_chase_tygerclaws_bike_wa_01 : DynamicVehicleData
 
 gang_chase_tygerclaws_bike_wa_02 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sportbike2_arch_tyger";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1447,7 +1447,7 @@ gang_chase_tygerclaws_bike_wa_02 : DynamicVehicleData
 
 gang_chase_tygerclaws_bike_wa_03 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sport1_quadra_turbo_tyger_claw";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1459,7 +1459,7 @@ gang_chase_tygerclaws_bike_wa_03 : DynamicVehicleData
 
 gang_chase_tygerclaws_bike_wa_03_hil_07 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sport1_quadra_turbo_tyger_claw";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1471,7 +1471,7 @@ gang_chase_tygerclaws_bike_wa_03_hil_07 : DynamicVehicleData
 
 gang_chase_tygerclaws_small_01_jpn_12 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.cs_savable_villefort_columbus_tyger";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1487,7 +1487,7 @@ gang_chase_tygerclaws_small_01_jpn_12 : DynamicVehicleData
 
 gang_chase_tygerclaws_small_02_jpn_12 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.cs_savable_archer_quartz_tyger";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1503,7 +1503,7 @@ gang_chase_tygerclaws_small_02_jpn_12 : DynamicVehicleData
 
 gang_chase_tygerclaws_small_03_jpn_12 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.cs_savable_mizutani_shion_tyger";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1519,7 +1519,7 @@ gang_chase_tygerclaws_small_03_jpn_12 : DynamicVehicleData
 
 gang_chase_tygerclaws_small_04_jpn_12 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sport1_quadra_turbo_tyger_claw";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1535,7 +1535,7 @@ gang_chase_tygerclaws_small_04_jpn_12 : DynamicVehicleData
 
 gang_chase_tygerclaws_small_05_generic_hozuki_jpn_12 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_standard2_mizutani_hozuki";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1551,7 +1551,7 @@ gang_chase_tygerclaws_small_05_generic_hozuki_jpn_12 : DynamicVehicleData
 
 gang_chase_tygerclaws_small_06_generic_riptide_jpn_12 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sport1_herrera_riptide";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1567,7 +1567,7 @@ gang_chase_tygerclaws_small_06_generic_riptide_jpn_12 : DynamicVehicleData
 
 gang_chase_tygerclaws_bike_ma_01_jpn_12 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sportbike1_yaiba_kusanagi_tyger";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1579,7 +1579,7 @@ gang_chase_tygerclaws_bike_ma_01_jpn_12 : DynamicVehicleData
 
 gang_chase_tygerclaws_bike_ma_02_jpn_12 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sportbike2_arch_tyger";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1591,7 +1591,7 @@ gang_chase_tygerclaws_bike_ma_02_jpn_12 : DynamicVehicleData
 
 gang_chase_tygerclaws_bike_ma_03_jpn_12 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sport1_quadra_turbo_tyger_claw";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1603,7 +1603,7 @@ gang_chase_tygerclaws_bike_ma_03_jpn_12 : DynamicVehicleData
 
 gang_chase_tygerclaws_bike_wa_01_jpn_12 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sportbike1_yaiba_kusanagi_tyger";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1615,7 +1615,7 @@ gang_chase_tygerclaws_bike_wa_01_jpn_12 : DynamicVehicleData
 
 gang_chase_tygerclaws_bike_wa_02_jpn_12 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sportbike2_arch_tyger";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1627,7 +1627,7 @@ gang_chase_tygerclaws_bike_wa_02_jpn_12 : DynamicVehicleData
 
 gang_chase_tygerclaws_bike_wa_03_jpn_12 : DynamicVehicleData
 {
-	vehicleRecord = "Vehicle.v_sport1_quadra_turbo_tyger_claw";
+	vehicleRecord = "";
 	unitRecordsPool =
 	[
 		{
@@ -1684,4 +1684,3 @@ gig_chase_militech_car_01_big : DynamicVehicleData
 		}
 	];
 }
-
